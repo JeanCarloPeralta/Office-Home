@@ -1,0 +1,97 @@
+
+.fondo{ /* imagen para el fondo*/
+	background-image: url("../images/low_contrast_linen.png");
+	height: 92%;
+}
+.botones{/* color del boton menu*/
+	background-color: #14BFAC;
+	color: #fff;
+}
+
+.botonNaranja{
+	background-color: #FF6060;
+	color:#fff;
+}
+
+#sidebar-wrapper{/* color del sidebar*/
+	background-color: #FFF;
+}
+
+.heading{
+	font-family: Cambria;
+	font-size: 150%;
+}
+
+.componentes-sidebar{ /* color de los componentes del sidebar*/
+	background-color: #FFF;
+	font-family: Cambria;
+	font-size: 18px;
+	color: black;
+}
+
+.letra{
+	color: #fff;
+	font-family: Cambria;
+
+}
+
+p{
+	color: #fff;
+	font-family: Cambria;
+	text-indent: 1.5em;
+}
+
+.bloque{	
+	display: block;
+}
+
+.divMargin{
+	margin-left: 3%;
+}
+
+.inline-bloque{
+	display: inline-block;
+}
+
+.borde{
+
+	border:solid red;
+
+}
+.espacio{
+	padding-bottom: 2%;
+}
+
+.titulos{
+	padding-bottom: 3%
+}
+
+.letra_inputs{
+	color: #000;
+	font-family: Cambria;
+}
+.margin{
+	margin-left: 6%;
+}
+
+.login{
+	background-color: rgba(0,0,0,0.7);
+	padding-bottom: 5%;
+	padding-top: 4%;
+	border-radius: 30px;
+}
+
+a:hover{
+	color:#14BFAC;
+	text-decoration: none;
+}
+
+.registro{
+	background-color: rgba(0,0,0,0.7);
+	padding-bottom: 1%;
+	padding-top: 1%;
+	margin-left: 25%;
+	border-radius: 30px;
+	height: 50%;
+
+}

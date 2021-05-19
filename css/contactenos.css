@@ -1,0 +1,27 @@
+.name-form{ /* color del formulario contactenos*/
+	background-color: #919191;
+	border: none;
+}
+
+.titulo{
+	color: #fff;
+	font-family: Cambria;
+	font-size: 40px;
+}	
+
+
+
+#boton:hover{
+	color: #fff;
+	cursor: pointer;
+
+}
+
+p{
+	font-size: 15px;
+	color: white;
+}
+
+.iconos{
+	color: #fff;
+}
